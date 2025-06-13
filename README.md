@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabriciof.campos21@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-campos-fbrfc/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fabrxcio21)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/seu-id)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/421471990084272129)
 
 ## Quem sou eu? 👨‍💻
 Me chamo Fabricio, e sou mestre em Ciências Biológicas. Porém, desde 2024 entrei de cabeça no mundo da tecnologia em busca de novos ares. Ainda estou no início mas estou desenvolvendo minhas skills para poder trabalhar com equipes, porém já consigo realizar tarefas como CRUD completo, deploy simples, integração front-back, controle de versão e desenvolvimento responsivo.
